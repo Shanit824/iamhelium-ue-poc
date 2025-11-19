@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/iamhelium-ue-poc/:/",
-    "/content/iamhelium-ue-poc/configuration:/.helix/config.json",
-    "/content/iamhelium-ue-poc/metadata:/metadata.json"
+    "/content/eds/:/",
+    "/content/eds/configuration:/.helix/config.json",
+    "/content/eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/iamhelium-ue-poc/"
+    "/content/eds/"
   ]
 }
