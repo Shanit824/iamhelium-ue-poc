@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p51328-e442308.adobeaemcloud.com/bin/franklin.delivery/shanit824/iamhelium-ue-poc/main"
+    url: "https://author-p51328-e442308.adobeaemcloud.com/bin/franklin.delivery/shanit824/eds/main"
     type: "markup"
     suffix: ".html"
