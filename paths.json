@@ -2,8 +2,7 @@
   "mappings": [
     "/content/iamhelium-ue-poc/:/",
     "/content/iamhelium-ue-poc/configuration:/.helix/config.json",
-    "/content/iamhelium-ue-poc/metadata:/metadata.json",
-    "/content/iamhelium-ue-poc/redirects:/redirects.json"
+    "/content/iamhelium-ue-poc/metadata:/metadata.json"
   ],
   "includes": [
     "/content/iamhelium-ue-poc/"
